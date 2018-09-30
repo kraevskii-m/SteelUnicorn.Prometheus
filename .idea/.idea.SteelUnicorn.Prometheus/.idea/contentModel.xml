@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\krami\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_SteelUnicorn.Prometheus.1830812045.00" t="ExcludeRecursive" />
+    <e p="C:\Users\krami\RiderProjects\SteelUnicorn.Prometheus" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SteelUnicorn.Prometheus.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SteelUnicorn.Prometheus.Core.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SteelUnicorn.Prometheus.Input" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SteelUnicorn.Prometheus.Input.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SteelUnicorn.Prometheus.Output" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SteelUnicorn.Prometheus.Output.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SteelUnicorn.Prometheus.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

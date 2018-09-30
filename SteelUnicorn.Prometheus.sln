@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteelUnicorn.Prometheus.Core", "SteelUnicorn.Prometheus.Core\SteelUnicorn.Prometheus.Core.csproj", "{C0428536-B530-467B-BF8F-B46D2AF84AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteelUnicorn.Prometheus.Input", "SteelUnicorn.Prometheus.Input\SteelUnicorn.Prometheus.Input.csproj", "{DF487E6C-B843-4AD8-AFD7-BC2556633973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteelUnicorn.Prometheus.Output", "SteelUnicorn.Prometheus.Output\SteelUnicorn.Prometheus.Output.csproj", "{A36D4E32-EDB7-4817-877E-34E151E3FB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0428536-B530-467B-BF8F-B46D2AF84AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0428536-B530-467B-BF8F-B46D2AF84AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0428536-B530-467B-BF8F-B46D2AF84AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0428536-B530-467B-BF8F-B46D2AF84AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF487E6C-B843-4AD8-AFD7-BC2556633973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF487E6C-B843-4AD8-AFD7-BC2556633973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF487E6C-B843-4AD8-AFD7-BC2556633973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF487E6C-B843-4AD8-AFD7-BC2556633973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36D4E32-EDB7-4817-877E-34E151E3FB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36D4E32-EDB7-4817-877E-34E151E3FB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36D4E32-EDB7-4817-877E-34E151E3FB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36D4E32-EDB7-4817-877E-34E151E3FB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
