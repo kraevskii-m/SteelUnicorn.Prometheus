@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c51e6c0b-baf7-416c-90ca-65b15194ad1c" name="Default" comment="" />
+    <list default="true" id="c51e6c0b-baf7-416c-90ca-65b15194ad1c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/IReinforcement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/ISolution.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/IGost.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SteelUnicorn.Prometheus/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SteelUnicorn.Prometheus/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SteelUnicorn.Prometheus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SteelUnicorn.Prometheus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/SteelUnicorn.Prometheus.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/SteelUnicorn.Prometheus.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/SteelUnicorn.Prometheus.Input.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/SteelUnicorn.Prometheus.Input.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/SteelUnicorn.Prometheus.Output.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/SteelUnicorn.Prometheus.Output.csproj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,39 +23,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Class1.cs">
+      <file leaf-file-name="Core.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding>
-                <marker date="1538333322467" expanded="true" signature="38:72" ph="{...}" />
-                <marker date="1538333322467" expanded="true" signature="62:70" ph="{...}" />
+                <marker date="1538334058495" expanded="true" signature="38:75" ph="{...}" />
+                <marker date="1538334058495" expanded="true" signature="60:73" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Class1.cs">
+      <file leaf-file-name="IReinforcement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/IReinforcement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
               <folding>
-                <marker date="1538333346671" expanded="true" signature="39:79" ph="{...}" />
-                <marker date="1538333346671" expanded="true" signature="65:77" ph="{...}" />
+                <marker date="1538334058513" expanded="true" signature="47:108" ph="{...}" />
+                <marker date="1538334058513" expanded="true" signature="85:106" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Class1.cs">
+      <file leaf-file-name="ISolution.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/ISolution.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
-                <marker date="1538333358661" expanded="true" signature="40:80" ph="{...}" />
-                <marker date="1538333358661" expanded="true" signature="66:78" ph="{...}" />
+                <marker date="1538334058475" expanded="true" signature="47:126" ph="{...}" />
+                <marker date="1538334058475" expanded="true" signature="80:124" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IGost.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/IGost.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1538334058445" expanded="true" signature="60:115" ph="{...}" />
+                <marker date="1538334058445" expanded="true" signature="101:113" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Input.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding>
+                <marker date="1538334091785" expanded="true" signature="39:78" ph="{...}" />
+                <marker date="1538334091785" expanded="true" signature="64:76" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Output.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1538334091808" expanded="true" signature="40:80" ph="{...}" />
+                <marker date="1538334091808" expanded="true" signature="66:78" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,14 +107,18 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="kraevskii-m" />
+        <option value="krae]" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/ISolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/IGost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/IReinforcement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,6 +130,15 @@
         <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus/Core.cs" />
         <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Class1.cs" />
         <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Class1.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/GOST.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/IGost.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Reinforcement.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Solution.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/IReinforcement.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/ISolution.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs" />
+        <option value="$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +172,37 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SteelUnicorn.Prometheus.Core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SteelUnicorn.Prometheus.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SteelUnicorn.Prometheus.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Naive" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SteelUnicorn.Prometheus.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Naive" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Russia" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SteelUnicorn.Prometheus.Input" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SteelUnicorn.Prometheus (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SteelUnicorn.Prometheus.Output" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -144,7 +240,8 @@
       <option name="presentableId" value="Default" />
       <updated>1538054724550</updated>
       <workItem from="1538054726112" duration="2162000" />
-      <workItem from="1538332972663" duration="454000" />
+      <workItem from="1538332972663" duration="630000" />
+      <workItem from="1538333624602" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1538054767942</created>
@@ -164,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2616000" />
+    <option name="totallyTimeSpent" value="3324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,16 +280,16 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25704697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -214,68 +311,108 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Added some basic interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some basic interfaces" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus/Core.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus/SteelUnicorn.Prometheus.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Input/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Output/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus/Core.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1538333322467" expanded="true" signature="38:72" ph="{...}" />
-            <marker date="1538333322467" expanded="true" signature="62:70" ph="{...}" />
+            <marker date="1538334058495" expanded="true" signature="38:75" ph="{...}" />
+            <marker date="1538334058495" expanded="true" signature="60:73" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
-            <marker date="1538333346671" expanded="true" signature="39:79" ph="{...}" />
-            <marker date="1538333346671" expanded="true" signature="65:77" ph="{...}" />
+            <marker date="1538334091785" expanded="true" signature="39:78" ph="{...}" />
+            <marker date="1538334091785" expanded="true" signature="64:76" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
-            <marker date="1538333358661" expanded="true" signature="40:80" ph="{...}" />
-            <marker date="1538333358661" expanded="true" signature="66:78" ph="{...}" />
+            <marker date="1538334091808" expanded="true" signature="40:80" ph="{...}" />
+            <marker date="1538334091808" expanded="true" signature="66:78" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus/Core.cs" />
+    <entry file="file://$PROJECT_DIR$/Input/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Output/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus/Core.cs" />
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/IReinforcement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <marker date="1538334058513" expanded="true" signature="47:108" ph="{...}" />
+            <marker date="1538334058513" expanded="true" signature="85:106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/ISolution.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1538334058475" expanded="true" signature="47:126" ph="{...}" />
+            <marker date="1538334058475" expanded="true" signature="80:124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Core.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1538334058495" expanded="true" signature="38:75" ph="{...}" />
+            <marker date="1538334058495" expanded="true" signature="60:73" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Core/Solution/Naive/Russia/IGost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1538334058445" expanded="true" signature="60:115" ph="{...}" />
+            <marker date="1538334058445" expanded="true" signature="101:113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Input/Input.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <marker date="1538334091785" expanded="true" signature="39:78" ph="{...}" />
+            <marker date="1538334091785" expanded="true" signature="64:76" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SteelUnicorn.Prometheus.Output/Output.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1538334091808" expanded="true" signature="40:80" ph="{...}" />
+            <marker date="1538334091808" expanded="true" signature="66:78" ph="{...}" />
           </folding>
         </state>
       </provider>

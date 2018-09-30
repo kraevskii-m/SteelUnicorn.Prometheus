@@ -1,6 +1,6 @@
 ﻿namespace SteelUnicorn.Prometheus.Output
 {
-    public class Class1
+    public class Output
     {
     }
 }

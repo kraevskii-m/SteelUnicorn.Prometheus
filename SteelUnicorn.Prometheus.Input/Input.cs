@@ -1,6 +1,6 @@
 ﻿namespace SteelUnicorn.Prometheus.Input
 {
-    public class Class1
+    public class Input
     {
     }
 }
